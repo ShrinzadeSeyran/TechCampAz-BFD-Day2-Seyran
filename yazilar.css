@@ -1,0 +1,16 @@
+.birinci {
+    color: white;
+    background-color: red;
+
+}
+.ikinci{
+    color: black;
+    background-color: green;
+    letter-spacing: 10px;
+    
+}
+.ucuncu{
+    color: blue;
+    background-color: orange;
+    font-weight: 900;
+}
